@@ -3,7 +3,8 @@
 ## Prerequisites For Windows  
 Check if you have python installed: 
 
-``` python --version
+``` 
+python --version
 ```  
 
 Check if you have pip installed:  
