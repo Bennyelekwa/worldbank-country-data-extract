@@ -66,16 +66,14 @@ CUB,Cuba,Havana
 CUW,Curacao,Willemstad
 CYM,Cayman Islands,George Town
 CYP,Cyprus,Nicosia
-CZE,Czech Republic,Prague
+CZE,Czechia,Prague
 DEA,East Asia & Pacific (IDA-eligible countries),
 DEC,Europe & Central Asia (IDA-eligible countries),
 DEU,Germany,Berlin
-DFS,IDA countries classified as Fragile Situations,
 DJI,Djibouti,Djibouti
 DLA,Latin America & the Caribbean (IDA-eligible countries),
 DMA,Dominica,Roseau
 DMN,Middle East & North Africa (IDA-eligible countries),
-DNF,IDA countries not classified as Fragile Situations,
 DNK,Denmark,Copenhagen
 DNS,IDA countries in Sub-Saharan Africa not classified as fragile situations ,
 DOM,Dominican Republic,Santo Domingo
@@ -99,3 +97,5 @@ EUU,European Union,
 FCS,Fragile and conflict affected situations,
 FIN,Finland,Helsinki
 FJI,Fiji,Suva
+FRA,France,Paris
+FRO,Faroe Islands,Torshavn
